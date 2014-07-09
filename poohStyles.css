@@ -17,7 +17,6 @@ body {
 .slide {
     min-height: 100vh;
     padding: 5em;
-    background-image: url("http://tutsplus.github.io/create-a-masked-background-effect-with--background-attachment--fixed--/images/minipadwhite.png");
     background-size: 50% auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -39,11 +38,11 @@ body {
 }
 .separator h2 {
     padding: 5px;
-        margin: 0;
+    margin: 0;
 }
 .s2 {
     padding-right: 55%;
-    background-image: url("./Images/ChristopherRobin.jpg");
+    background-image: url("./Images/christopherrobin.jpg");
     background-size: 50%;
     background-position: right center;
     background-color: white;
